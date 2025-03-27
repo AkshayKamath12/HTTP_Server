@@ -1,0 +1,99 @@
+[[events]]
+type = "UNLOAD"
+file = "test.txt"
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri = "test.txt"
+infile = "test_files/antihero.txt"
+id = 0
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri = "test.txt"
+infile = "test_files/ipanema.txt"
+id = 1
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri = "test.txt"
+infile = "test_files/summertime.txt"
+id = 2
+
+# Send first three requests
+[[events]]
+type = "SEND_LINE"
+id = 0
+
+[[events]]
+type = "SEND_LINE"
+id = 1
+
+[[events]]
+type = "SEND_LINE"
+id = 2
+
+
+# send last request
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri = "test.txt"
+infile = "test_files/wonderful.txt"
+block = 1
+id = 3
+
+
+[[events]]
+type = "SEND_ALL"
+id = 3
+
+# Wait to receive out of ourder
+[[events]]
+type = "WAIT"
+id = 3
+
+[[events]]
+type = "SEND_HEADERS"
+id = 0
+
+[[events]]
+type = "SEND_HEADERS"
+id = 1
+
+[[events]]
+type = "SEND_HEADERS"
+id = 2
+
+
+[[events]]
+type = "SEND_BODY"
+id = 0
+
+[[events]]
+type = "SEND_BODY"
+id = 1
+
+[[events]]
+type = "SEND_BODY"
+id = 2
+
+[[events]]
+type = "WAIT"
+id = 0
+
+[[events]]
+type = "WAIT"
+id = 1
+
+[[events]]
+type = "WAIT"
+id = 2
+
+[[events]]
+type = "UNLOAD"
+file = "test.txt"

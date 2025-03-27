@@ -1,0 +1,76 @@
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri = "test1.txt"
+infile = "test_files/antihero.txt"
+id = 0
+
+[[events]]
+type = "SEND_ALL"
+id = 0
+
+[[events]]
+type = "WAIT"
+id = 0
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri = "test2.txt"
+infile = "test_files/ipanema.txt"
+id = 1
+
+
+[[events]]
+type = "SEND_ALL"
+id = 1
+
+[[events]]
+type = "WAIT"
+id = 1
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri = "test3.txt"
+infile = "test_files/summertime.txt"
+id = 2
+
+[[events]]
+type = "SEND_ALL"
+id = 2
+
+[[events]]
+type = "WAIT"
+id = 2
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri = "test4.txt"
+infile = "test_files/wonderful.txt"
+id = 3
+
+[[events]]
+type = "SEND_ALL"
+id = 3
+
+[[events]]
+type = "WAIT"
+id = 3
+
+[[events]]
+type = "UNLOAD"
+file = "test1.txt"
+
+[[events]]
+type = "UNLOAD"
+file = "test2.txt"
+
+[[events]]
+type = "UNLOAD"
+file = "test3.txt"
+
+[[events]]
+type = "UNLOAD"
+file = "test4.txt"

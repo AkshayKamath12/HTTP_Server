@@ -1,0 +1,1454 @@
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/ipanema.txt"
+id=0
+
+[[events]]
+type = "SEND_ALL"
+id=0
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=1
+
+[[events]]
+type = "SEND_ALL"
+id=1
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/unforgettable.txt"
+id=2
+
+[[events]]
+type = "SEND_ALL"
+id=2
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=3
+
+[[events]]
+type = "SEND_ALL"
+id=3
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/summertime.txt"
+id=4
+
+[[events]]
+type = "SEND_ALL"
+id=4
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=5
+
+[[events]]
+type = "SEND_ALL"
+id=5
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/ipanema.txt"
+id=6
+
+[[events]]
+type = "SEND_ALL"
+id=6
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=7
+
+[[events]]
+type = "SEND_ALL"
+id=7
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/unforgettable.txt"
+id=8
+
+[[events]]
+type = "SEND_ALL"
+id=8
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=9
+
+[[events]]
+type = "SEND_ALL"
+id=9
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/summertime.txt"
+id=10
+
+[[events]]
+type = "SEND_ALL"
+id=10
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=11
+
+[[events]]
+type = "SEND_ALL"
+id=11
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/ipanema.txt"
+id=12
+
+[[events]]
+type = "SEND_ALL"
+id=12
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=13
+
+[[events]]
+type = "SEND_ALL"
+id=13
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/unforgettable.txt"
+id=14
+
+[[events]]
+type = "SEND_ALL"
+id=14
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=15
+
+[[events]]
+type = "SEND_ALL"
+id=15
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/summertime.txt"
+id=16
+
+[[events]]
+type = "SEND_ALL"
+id=16
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=17
+
+[[events]]
+type = "SEND_ALL"
+id=17
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/ipanema.txt"
+id=18
+
+[[events]]
+type = "SEND_ALL"
+id=18
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=19
+
+[[events]]
+type = "SEND_ALL"
+id=19
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/unforgettable.txt"
+id=20
+
+[[events]]
+type = "SEND_ALL"
+id=20
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=21
+
+[[events]]
+type = "SEND_ALL"
+id=21
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/summertime.txt"
+id=22
+
+[[events]]
+type = "SEND_ALL"
+id=22
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=23
+
+[[events]]
+type = "SEND_ALL"
+id=23
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/ipanema.txt"
+id=24
+
+[[events]]
+type = "SEND_ALL"
+id=24
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=25
+
+[[events]]
+type = "SEND_ALL"
+id=25
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/unforgettable.txt"
+id=26
+
+[[events]]
+type = "SEND_ALL"
+id=26
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=27
+
+[[events]]
+type = "SEND_ALL"
+id=27
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/summertime.txt"
+id=28
+
+[[events]]
+type = "SEND_ALL"
+id=28
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=29
+
+[[events]]
+type = "SEND_ALL"
+id=29
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/ipanema.txt"
+id=30
+
+[[events]]
+type = "SEND_ALL"
+id=30
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=31
+
+[[events]]
+type = "SEND_ALL"
+id=31
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/unforgettable.txt"
+id=32
+
+[[events]]
+type = "SEND_ALL"
+id=32
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=33
+
+[[events]]
+type = "SEND_ALL"
+id=33
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/summertime.txt"
+id=34
+
+[[events]]
+type = "SEND_ALL"
+id=34
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=35
+
+[[events]]
+type = "SEND_ALL"
+id=35
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/ipanema.txt"
+id=36
+
+[[events]]
+type = "SEND_ALL"
+id=36
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=37
+
+[[events]]
+type = "SEND_ALL"
+id=37
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/unforgettable.txt"
+id=38
+
+[[events]]
+type = "SEND_ALL"
+id=38
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=39
+
+[[events]]
+type = "SEND_ALL"
+id=39
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/summertime.txt"
+id=40
+
+[[events]]
+type = "SEND_ALL"
+id=40
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=41
+
+[[events]]
+type = "SEND_ALL"
+id=41
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/ipanema.txt"
+id=42
+
+[[events]]
+type = "SEND_ALL"
+id=42
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=43
+
+[[events]]
+type = "SEND_ALL"
+id=43
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/unforgettable.txt"
+id=44
+
+[[events]]
+type = "SEND_ALL"
+id=44
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=45
+
+[[events]]
+type = "SEND_ALL"
+id=45
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/summertime.txt"
+id=46
+
+[[events]]
+type = "SEND_ALL"
+id=46
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=47
+
+[[events]]
+type = "SEND_ALL"
+id=47
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/ipanema.txt"
+id=48
+
+[[events]]
+type = "SEND_ALL"
+id=48
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=49
+
+[[events]]
+type = "SEND_ALL"
+id=49
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/unforgettable.txt"
+id=50
+
+[[events]]
+type = "SEND_ALL"
+id=50
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=51
+
+[[events]]
+type = "SEND_ALL"
+id=51
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/summertime.txt"
+id=52
+
+[[events]]
+type = "SEND_ALL"
+id=52
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=53
+
+[[events]]
+type = "SEND_ALL"
+id=53
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/ipanema.txt"
+id=54
+
+[[events]]
+type = "SEND_ALL"
+id=54
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=55
+
+[[events]]
+type = "SEND_ALL"
+id=55
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/unforgettable.txt"
+id=56
+
+[[events]]
+type = "SEND_ALL"
+id=56
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=57
+
+[[events]]
+type = "SEND_ALL"
+id=57
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/summertime.txt"
+id=58
+
+[[events]]
+type = "SEND_ALL"
+id=58
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=59
+
+[[events]]
+type = "SEND_ALL"
+id=59
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/ipanema.txt"
+id=60
+
+[[events]]
+type = "SEND_ALL"
+id=60
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=61
+
+[[events]]
+type = "SEND_ALL"
+id=61
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/unforgettable.txt"
+id=62
+
+[[events]]
+type = "SEND_ALL"
+id=62
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=63
+
+[[events]]
+type = "SEND_ALL"
+id=63
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/summertime.txt"
+id=64
+
+[[events]]
+type = "SEND_ALL"
+id=64
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=65
+
+[[events]]
+type = "SEND_ALL"
+id=65
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/ipanema.txt"
+id=66
+
+[[events]]
+type = "SEND_ALL"
+id=66
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=67
+
+[[events]]
+type = "SEND_ALL"
+id=67
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/unforgettable.txt"
+id=68
+
+[[events]]
+type = "SEND_ALL"
+id=68
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=69
+
+[[events]]
+type = "SEND_ALL"
+id=69
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/summertime.txt"
+id=70
+
+[[events]]
+type = "SEND_ALL"
+id=70
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=71
+
+[[events]]
+type = "SEND_ALL"
+id=71
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/ipanema.txt"
+id=72
+
+[[events]]
+type = "SEND_ALL"
+id=72
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=73
+
+[[events]]
+type = "SEND_ALL"
+id=73
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/unforgettable.txt"
+id=74
+
+[[events]]
+type = "SEND_ALL"
+id=74
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=75
+
+[[events]]
+type = "SEND_ALL"
+id=75
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/summertime.txt"
+id=76
+
+[[events]]
+type = "SEND_ALL"
+id=76
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=77
+
+[[events]]
+type = "SEND_ALL"
+id=77
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/ipanema.txt"
+id=78
+
+[[events]]
+type = "SEND_ALL"
+id=78
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=79
+
+[[events]]
+type = "SEND_ALL"
+id=79
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/unforgettable.txt"
+id=80
+
+[[events]]
+type = "SEND_ALL"
+id=80
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=81
+
+[[events]]
+type = "SEND_ALL"
+id=81
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/summertime.txt"
+id=82
+
+[[events]]
+type = "SEND_ALL"
+id=82
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=83
+
+[[events]]
+type = "SEND_ALL"
+id=83
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/ipanema.txt"
+id=84
+
+[[events]]
+type = "SEND_ALL"
+id=84
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=85
+
+[[events]]
+type = "SEND_ALL"
+id=85
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/unforgettable.txt"
+id=86
+
+[[events]]
+type = "SEND_ALL"
+id=86
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=87
+
+[[events]]
+type = "SEND_ALL"
+id=87
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/summertime.txt"
+id=88
+
+[[events]]
+type = "SEND_ALL"
+id=88
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=89
+
+[[events]]
+type = "SEND_ALL"
+id=89
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/ipanema.txt"
+id=90
+
+[[events]]
+type = "SEND_ALL"
+id=90
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=91
+
+[[events]]
+type = "SEND_ALL"
+id=91
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/unforgettable.txt"
+id=92
+
+[[events]]
+type = "SEND_ALL"
+id=92
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=93
+
+[[events]]
+type = "SEND_ALL"
+id=93
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/summertime.txt"
+id=94
+
+[[events]]
+type = "SEND_ALL"
+id=94
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=95
+
+[[events]]
+type = "SEND_ALL"
+id=95
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/ipanema.txt"
+id=96
+
+[[events]]
+type = "SEND_ALL"
+id=96
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=97
+
+[[events]]
+type = "SEND_ALL"
+id=97
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict"
+infile="test_files/unforgettable.txt"
+id=98
+
+[[events]]
+type = "SEND_ALL"
+id=98
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri="conflict"
+id=99
+
+[[events]]
+type = "SEND_ALL"
+id=99
+
+[[events]]
+type = "WAIT"
+id=0
+
+[[events]]
+type = "WAIT"
+id=1
+
+[[events]]
+type = "WAIT"
+id=2
+
+[[events]]
+type = "WAIT"
+id=3
+
+[[events]]
+type = "WAIT"
+id=4
+
+[[events]]
+type = "WAIT"
+id=5
+
+[[events]]
+type = "WAIT"
+id=6
+
+[[events]]
+type = "WAIT"
+id=7
+
+[[events]]
+type = "WAIT"
+id=8
+
+[[events]]
+type = "WAIT"
+id=9
+
+[[events]]
+type = "WAIT"
+id=10
+
+[[events]]
+type = "WAIT"
+id=11
+
+[[events]]
+type = "WAIT"
+id=12
+
+[[events]]
+type = "WAIT"
+id=13
+
+[[events]]
+type = "WAIT"
+id=14
+
+[[events]]
+type = "WAIT"
+id=15
+
+[[events]]
+type = "WAIT"
+id=16
+
+[[events]]
+type = "WAIT"
+id=17
+
+[[events]]
+type = "WAIT"
+id=18
+
+[[events]]
+type = "WAIT"
+id=19
+
+[[events]]
+type = "WAIT"
+id=20
+
+[[events]]
+type = "WAIT"
+id=21
+
+[[events]]
+type = "WAIT"
+id=22
+
+[[events]]
+type = "WAIT"
+id=23
+
+[[events]]
+type = "WAIT"
+id=24
+
+[[events]]
+type = "WAIT"
+id=25
+
+[[events]]
+type = "WAIT"
+id=26
+
+[[events]]
+type = "WAIT"
+id=27
+
+[[events]]
+type = "WAIT"
+id=28
+
+[[events]]
+type = "WAIT"
+id=29
+
+[[events]]
+type = "WAIT"
+id=30
+
+[[events]]
+type = "WAIT"
+id=31
+
+[[events]]
+type = "WAIT"
+id=32
+
+[[events]]
+type = "WAIT"
+id=33
+
+[[events]]
+type = "WAIT"
+id=34
+
+[[events]]
+type = "WAIT"
+id=35
+
+[[events]]
+type = "WAIT"
+id=36
+
+[[events]]
+type = "WAIT"
+id=37
+
+[[events]]
+type = "WAIT"
+id=38
+
+[[events]]
+type = "WAIT"
+id=39
+
+[[events]]
+type = "WAIT"
+id=40
+
+[[events]]
+type = "WAIT"
+id=41
+
+[[events]]
+type = "WAIT"
+id=42
+
+[[events]]
+type = "WAIT"
+id=43
+
+[[events]]
+type = "WAIT"
+id=44
+
+[[events]]
+type = "WAIT"
+id=45
+
+[[events]]
+type = "WAIT"
+id=46
+
+[[events]]
+type = "WAIT"
+id=47
+
+[[events]]
+type = "WAIT"
+id=48
+
+[[events]]
+type = "WAIT"
+id=49
+
+[[events]]
+type = "WAIT"
+id=50
+
+[[events]]
+type = "WAIT"
+id=51
+
+[[events]]
+type = "WAIT"
+id=52
+
+[[events]]
+type = "WAIT"
+id=53
+
+[[events]]
+type = "WAIT"
+id=54
+
+[[events]]
+type = "WAIT"
+id=55
+
+[[events]]
+type = "WAIT"
+id=56
+
+[[events]]
+type = "WAIT"
+id=57
+
+[[events]]
+type = "WAIT"
+id=58
+
+[[events]]
+type = "WAIT"
+id=59
+
+[[events]]
+type = "WAIT"
+id=60
+
+[[events]]
+type = "WAIT"
+id=61
+
+[[events]]
+type = "WAIT"
+id=62
+
+[[events]]
+type = "WAIT"
+id=63
+
+[[events]]
+type = "WAIT"
+id=64
+
+[[events]]
+type = "WAIT"
+id=65
+
+[[events]]
+type = "WAIT"
+id=66
+
+[[events]]
+type = "WAIT"
+id=67
+
+[[events]]
+type = "WAIT"
+id=68
+
+[[events]]
+type = "WAIT"
+id=69
+
+[[events]]
+type = "WAIT"
+id=70
+
+[[events]]
+type = "WAIT"
+id=71
+
+[[events]]
+type = "WAIT"
+id=72
+
+[[events]]
+type = "WAIT"
+id=73
+
+[[events]]
+type = "WAIT"
+id=74
+
+[[events]]
+type = "WAIT"
+id=75
+
+[[events]]
+type = "WAIT"
+id=76
+
+[[events]]
+type = "WAIT"
+id=77
+
+[[events]]
+type = "WAIT"
+id=78
+
+[[events]]
+type = "WAIT"
+id=79
+
+[[events]]
+type = "WAIT"
+id=80
+
+[[events]]
+type = "WAIT"
+id=81
+
+[[events]]
+type = "WAIT"
+id=82
+
+[[events]]
+type = "WAIT"
+id=83
+
+[[events]]
+type = "WAIT"
+id=84
+
+[[events]]
+type = "WAIT"
+id=85
+
+[[events]]
+type = "WAIT"
+id=86
+
+[[events]]
+type = "WAIT"
+id=87
+
+[[events]]
+type = "WAIT"
+id=88
+
+[[events]]
+type = "WAIT"
+id=89
+
+[[events]]
+type = "WAIT"
+id=90
+
+[[events]]
+type = "WAIT"
+id=91
+
+[[events]]
+type = "WAIT"
+id=92
+
+[[events]]
+type = "WAIT"
+id=93
+
+[[events]]
+type = "WAIT"
+id=94
+
+[[events]]
+type = "WAIT"
+id=95
+
+[[events]]
+type = "WAIT"
+id=96
+
+[[events]]
+type = "WAIT"
+id=97
+
+[[events]]
+type = "WAIT"
+id=98
+
+[[events]]
+type = "WAIT"
+id=99
+
+[[events]]
+type = "UNLOAD"
+file="conflict"
+

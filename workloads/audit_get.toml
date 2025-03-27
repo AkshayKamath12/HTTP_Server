@@ -1,0 +1,94 @@
+[[events]]
+type = "LOAD"
+infile = "test_files/antihero.txt"
+outfile = "test1.txt"
+
+[[events]]
+type = "LOAD"
+infile = "test_files/ipanema.txt"
+outfile = "test2.txt"
+
+[[events]]
+type = "LOAD"
+infile = "test_files/summertime.txt"
+outfile = "test3.txt"
+
+[[events]]
+type = "LOAD"
+infile = "test_files/wonderful.txt"
+outfile = "test4.txt"
+
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri = "test1.txt"
+id = 0
+
+[[events]]
+type = "SEND_ALL"
+id = 0
+
+[[events]]
+type = "WAIT"
+id = 0
+
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri = "test2.txt"
+id = 1
+
+[[events]]
+type = "SEND_ALL"
+id = 1
+
+[[events]]
+type = "WAIT"
+id = 1
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri = "test3.txt"
+id = 2
+
+[[events]]
+type = "SEND_ALL"
+id = 2
+
+[[events]]
+type = "WAIT"
+id = 2
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri = "test4.txt"
+id = 3
+
+
+[[events]]
+type = "SEND_ALL"
+id = 3
+
+[[events]]
+type = "WAIT"
+id = 3
+
+[[events]]
+type = "UNLOAD"
+file = "test1.txt"
+
+[[events]]
+type = "UNLOAD"
+file = "test2.txt"
+
+[[events]]
+type = "UNLOAD"
+file = "test3.txt"
+
+[[events]]
+type = "UNLOAD"
+file = "test4.txt"

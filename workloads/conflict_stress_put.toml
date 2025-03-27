@@ -1,0 +1,384 @@
+[[events]]
+type = "UNLOAD"
+file="conflict1.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict2.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict3.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict4.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict5.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict6.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict7.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict8.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict9.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict10.txt"
+
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict1.txt"
+infile="test_files/ipanema.txt"
+id=0
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict1.txt"
+infile="test_files/summertime.txt"
+id=1
+
+[[events]]
+type = "SEND_ALL"
+id=0
+
+[[events]]
+type = "SEND_ALL"
+id=1
+
+[[events]]
+type = "WAIT"
+id=0
+
+[[events]]
+type = "WAIT"
+id=1
+
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict2.txt"
+infile="test_files/ipanema.txt"
+id=2
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict2.txt"
+infile="test_files/summertime.txt"
+id=3
+
+[[events]]
+type = "SEND_ALL"
+id=2
+
+[[events]]
+type = "SEND_ALL"
+id=3
+
+[[events]]
+type = "WAIT"
+id=2
+
+[[events]]
+type = "WAIT"
+id=3
+
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict3.txt"
+infile="test_files/ipanema.txt"
+id=4
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict3.txt"
+infile="test_files/summertime.txt"
+id=5
+
+[[events]]
+type = "SEND_ALL"
+id=4
+
+[[events]]
+type = "SEND_ALL"
+id=5
+
+[[events]]
+type = "WAIT"
+id=4
+
+[[events]]
+type = "WAIT"
+id=5
+
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict4.txt"
+infile="test_files/ipanema.txt"
+id=6
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict4.txt"
+infile="test_files/summertime.txt"
+id=7
+
+[[events]]
+type = "SEND_ALL"
+id=6
+
+[[events]]
+type = "SEND_ALL"
+id=7
+
+[[events]]
+type = "WAIT"
+id=6
+
+[[events]]
+type = "WAIT"
+id=7
+
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict5.txt"
+infile="test_files/ipanema.txt"
+id=8
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict5.txt"
+infile="test_files/summertime.txt"
+id=9
+
+[[events]]
+type = "SEND_ALL"
+id=8
+
+[[events]]
+type = "SEND_ALL"
+id=9
+
+[[events]]
+type = "WAIT"
+id=8
+
+[[events]]
+type = "WAIT"
+id=9
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict6.txt"
+infile="test_files/ipanema.txt"
+id=10
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict6.txt"
+infile="test_files/summertime.txt"
+id=11
+
+[[events]]
+type = "SEND_ALL"
+id=10
+
+[[events]]
+type = "SEND_ALL"
+id=11
+
+[[events]]
+type = "WAIT"
+id=10
+
+[[events]]
+type = "WAIT"
+id=11
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict7.txt"
+infile="test_files/ipanema.txt"
+id=12
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict7.txt"
+infile="test_files/summertime.txt"
+id=13
+
+[[events]]
+type = "SEND_ALL"
+id=12
+
+[[events]]
+type = "SEND_ALL"
+id=13
+
+[[events]]
+type = "WAIT"
+id=12
+
+[[events]]
+type = "WAIT"
+id=13
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict8.txt"
+infile="test_files/ipanema.txt"
+id=14
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict8.txt"
+infile="test_files/summertime.txt"
+id=15
+
+[[events]]
+type = "SEND_ALL"
+id=14
+
+[[events]]
+type = "SEND_ALL"
+id=15
+
+[[events]]
+type = "WAIT"
+id=14
+
+[[events]]
+type = "WAIT"
+id=15
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict9.txt"
+infile="test_files/ipanema.txt"
+id=16
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict9.txt"
+infile="test_files/summertime.txt"
+id=17
+
+[[events]]
+type = "SEND_ALL"
+id=16
+
+[[events]]
+type = "SEND_ALL"
+id=17
+
+[[events]]
+type = "WAIT"
+id=16
+
+[[events]]
+type = "WAIT"
+id=17
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict10.txt"
+infile="test_files/ipanema.txt"
+id=18
+
+[[events]]
+type = "CREATE"
+method = "PUT"
+uri="conflict10.txt"
+infile="test_files/summertime.txt"
+id=19
+
+[[events]]
+type = "SEND_ALL"
+id=18
+
+[[events]]
+type = "SEND_ALL"
+id=19
+
+[[events]]
+type = "WAIT"
+id=18
+
+[[events]]
+type = "WAIT"
+id=19
+
+[[events]]
+type = "UNLOAD"
+file="conflict1.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict2.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict3.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict4.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict5.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict6.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict7.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict8.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict9.txt"
+
+[[events]]
+type = "UNLOAD"
+file="conflict10.txt"

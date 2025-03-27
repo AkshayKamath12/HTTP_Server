@@ -1,0 +1,89 @@
+[[events]]
+type = "LOAD"
+infile = "test_files/summertime.txt"
+outfile = "test.txt"
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri = "test.txt"
+block = 50000
+id = 0
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri = "test.txt"
+block = 50000
+id = 1
+
+[[events]]
+type = "CREATE"
+method = "GET"
+uri = "test.txt"
+block = 50000
+id = 2
+
+
+# Completely send GET request.
+[[events]]
+type = "SEND_ALL"
+id = 0
+
+# Completely send GET request.
+[[events]]
+type = "SEND_ALL"
+id = 1
+
+# Completely send GET request.
+[[events]]
+type = "SEND_ALL"
+id = 2
+
+# Synchronously receive some of the bodies
+[[events]]
+type = "RECV_PARTIAL"
+size = 4096
+id = 0
+
+[[events]]
+type = "RECV_PARTIAL"
+size = 4096
+id = 1
+
+[[events]]
+type = "RECV_PARTIAL"
+size = 4096
+id = 2
+
+# Completely send GET request.
+[[events]]
+type = "CREATE"
+method = "GET"
+uri = "test.txt"
+block = 1
+id = 3
+
+[[events]]
+type = "SEND_ALL"
+id = 3
+
+[[events]]
+type = "WAIT"
+id = 3
+
+[[events]]
+type = "WAIT"
+id = 0
+
+[[events]]
+type = "WAIT"
+id = 1
+
+[[events]]
+type = "WAIT"
+id = 2
+
+[[events]]
+type = "UNLOAD"
+file = "test.txt"
